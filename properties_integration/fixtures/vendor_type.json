@@ -1,0 +1,37 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vendor Type",
+  "modified": "2024-05-26 20:30:36.395580",
+  "name": "Real Estate Agents",
+  "vendor_type": "Real Estate Agents"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vendor Type",
+  "modified": "2024-05-26 20:30:36.409854",
+  "name": "Lawyers",
+  "vendor_type": "Lawyers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vendor Type",
+  "modified": "2024-05-26 20:30:36.414835",
+  "name": "Interior Designers",
+  "vendor_type": "Interior Designers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vendor Type",
+  "modified": "2024-05-26 20:30:36.419616",
+  "name": "Builders",
+  "vendor_type": "Builders"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vendor Type",
+  "modified": "2024-05-26 20:30:36.424191",
+  "name": "Home Loan",
+  "vendor_type": "Home Loan"
+ }
+]
