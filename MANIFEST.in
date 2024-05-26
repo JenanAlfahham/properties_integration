@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include properties_integration *.css
+recursive-include properties_integration *.csv
+recursive-include properties_integration *.html
+recursive-include properties_integration *.ico
+recursive-include properties_integration *.js
+recursive-include properties_integration *.json
+recursive-include properties_integration *.md
+recursive-include properties_integration *.png
+recursive-include properties_integration *.py
+recursive-include properties_integration *.svg
+recursive-include properties_integration *.txt
+recursive-exclude properties_integration *.pyc
